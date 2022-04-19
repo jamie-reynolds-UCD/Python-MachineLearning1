@@ -1,5 +1,7 @@
 # Python-MachineLearning1
 
-![alt text](https://github.com/jamie-reynolds-UCD/Python-MachineLearning1/blob/main/Ass1%20Gaussian%20NB%202021.pdf?raw=true)
+The objective of this assignment was to implement a Gaussian Naive Bayes classifier in the scikit-learn framework. A notebook (MajorityClassClf) is provided with a simple example of a classifier that works with scikit-learn.
 
-![alt text](http://Ass1%20Gaussian%20NB%202021.pdf.png)
+My implementation of a Gaussian Naive Bayes Classifier can be found in the "Assignment1_COMP47750.ipynb" file.
+
+The full assignment can be seen in the "Ass1 Gaussian NB 2021.pdf" file.
